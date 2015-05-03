@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	background: salmon;
+	font-family: Arial, Sans-Serif;
+	color: #fff;
+}
+
+section {
+	margin: 100px 10px;
+	text-align: center;
+}
+
+h1 {
+	margin: 0 0 5px;
+}
+
+a {
+	color: inherit;
+}
